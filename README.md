@@ -1,3 +1,4 @@
+                                  [ This project is currently under active development ]
 # DevOps AI Agent
 AI-powered DevOps assistant that helps automate infrastructure tasks, debugging, and deployment workflows using FastAPI and OpenAI.
 
